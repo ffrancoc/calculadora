@@ -1,4 +1,5 @@
 const readLineSync = require('readline-sync')
+const { Sum } = require('./operations')
 
 
 let option
