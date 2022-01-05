@@ -1,0 +1,23 @@
+{
+  "name": "calculadorajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node calc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffrancoc/calculadora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffrancoc/calculadora/issues"
+  },
+  "homepage": "https://github.com/ffrancoc/calculadora#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
